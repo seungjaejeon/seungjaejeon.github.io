@@ -57,7 +57,7 @@ body h1{
 }
 /* 전체 컨트롤 */
 #wrapper {
-    min-witdh: 1600px;
+    min-width: 1600px;
     background-color: #FFF5E4 ;
     width: 100%;
     height: 100%;
